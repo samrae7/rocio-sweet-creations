@@ -1,0 +1,31 @@
+.about {
+  margin: 1em 0;
+  padding: 1em;
+  position: relative;
+}
+.about h1 {
+  color: #000000;
+  margin-bottom: 2em;
+}
+.about img {
+  height: 100%;
+  width: 50%;
+  border-radius: 50%;
+}
+.about span {
+  display: block;
+  color: #888;
+  position: absolute;
+  left: 115px;
+}
+.about .desc {
+  padding: 2em;
+  border-left: 4px solid #fcdc3b;
+}
+.about .desc h3 {
+  color: #000000;
+}
+.about .desc p {
+  line-height: 2;
+  color: #888;
+}
