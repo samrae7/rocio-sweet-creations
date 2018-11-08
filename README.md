@@ -1,3 +1,5 @@
+This was created following a tutorial on bootstrap. The goal was to learn how to use bootstrap. Article: https://medium.freecodecamp.org/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
